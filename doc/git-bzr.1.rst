@@ -6,9 +6,7 @@
 Bidirectional bridge between git and bzr
 ----------------------------------------
 
-:Author: Stefano Rivera <stefanor@debian.org>
 :Date:   2012-12-07
-:Copyright: 2012, Stefano Rivera, BSD licensed
 :Manual section: 1
 :Manual group: Git-Bzr-Ng
 
